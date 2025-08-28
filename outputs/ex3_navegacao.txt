@@ -1,0 +1,6 @@
+/workspaces/lab-1-introducao-Luca-Saboia/exemplos
+/workspaces/lab-1-introducao-Luca-Saboia
+/workspaces/lab-1-introducao-Luca-Saboia/docs
+/workspaces/lab-1-introducao-Luca-Saboia/outputs
+/workspaces/lab-1-introducao-Luca-Saboia
+/workspaces/lab-1-introducao-Luca-Saboia
